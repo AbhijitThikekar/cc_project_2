@@ -1,4 +1,4 @@
-package com.jhooq.Jhooqk8s;
+package com.cloudComputing.basicSpringApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
